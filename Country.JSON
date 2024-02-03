@@ -1,0 +1,8 @@
+
+const  Country {
+    Name: 'India' 
+    Capital : 'New Delhi
+    Statecount: ""
+    Continent : "Asia"
+    Inddependence Day : "1947-08-15"
+    }
